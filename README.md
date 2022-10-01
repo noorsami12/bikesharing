@@ -6,6 +6,8 @@ For the purpose of this analysis, I utilized Tableau Public and Pandas, Jupyter 
 ## Results
 Visualizations were completed in the following areas: checkout times, trips by days of the week, gender, users and subscribers, and starting locations. 
 
+[link to dashboard](https://public.tableau.com/app/profile/noor.sami/viz/NYCCitibikeAnalysis_16646491751670/NYCCitibikeDataAnalysis?publish=yes)
+
 To begin with, we see a distinct gender breakdown of bikeshare users. The vast majority of bikeshare users are male, with a small percetage being female and a slightly larger percentage listed as unknown. Additionally, the top starting locations map shows us that most bikeshare users are centered around the same area of the city, while the outskirts have far fewer users. 
 
 The checkout time analysis shows that the most popular amount of checkout time for a bike on average is about 5 minutes with 146,752 users. The number of users checking out bikes for times longer than 5 minutes decreases steadily to around 1,000 at an hour. When broken down by gender, the checkout time popularity remains at a peak of 5 minutes for men while women have a similar range from 6-28 minutes. 
@@ -19,4 +21,3 @@ Overall, the data shows us that there are more male bikeshare users than other g
 
 Two additional visualizations that could provide us with further data could be a graph that shows us a gender breakdown of top starting locations so that we can see if certain areas of the city show more female users. Those areas can be targeted for extra marketing, as currently most bikeshare users are male. Another visualization could show us amount of bikeshare locations compared to the map of top starting locations. It would be helpful to see if the lower use areas are a result of less bikeshare hubs to begin with. 
 
-[link to dashboard](https://public.tableau.com/app/profile/noor.sami/viz/NYCCitibikeAnalysis_16646491751670/NYCCitibikeDataAnalysis?publish=yes)
