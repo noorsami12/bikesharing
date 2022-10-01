@@ -18,3 +18,5 @@ Finally, the breakdown of bikeshare trips by user versus subscribers is signific
 Overall, the data shows us that there are more male bikeshare users than other genders. Weekday bike usage centers around commute times, and weekend bike usage is frequent throughout the afternoon and early evening. Generally, users checkout bikes for a short period of time, mostly under 30 minutes. 
 
 Two additional visualizations that could provide us with further data could be a graph that shows us a gender breakdown of top starting locations so that we can see if certain areas of the city show more female users. Those areas can be targeted for extra marketing, as currently most bikeshare users are male. Another visualization could show us amount of bikeshare locations compared to the map of top starting locations. It would be helpful to see if the lower use areas are a result of less bikeshare hubs to begin with. 
+
+[link to dashboard](https://public.tableau.com/app/profile/noor.sami/viz/NYCCitibikeAnalysis_16646491751670/NYCCitibikeDataAnalysis?publish=yes)
